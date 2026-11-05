@@ -1,0 +1,20 @@
+# Obsidian workspace cache (mantiene le impostazioni utente locali)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/appearance.json
+
+# Blender backup files
+*.blend1
+*.blend2
+*.blend@
+
+# Credenziali e variabili d'ambiente (CRITICO: non committare mai chiavi API)
+.env
+*.key
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Node.js
+node_modules/
